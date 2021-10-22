@@ -5,7 +5,7 @@
 <br>
 В файле <a href="https://github.com/pmashkovtseva/car-review-corpora/blob/main/primary_data.csv">primary_data.csv</a> находятся первичные данные, собранные с помощью <a href = "https://popsters.ru/">Popsters</a>.
 <br>
-В файле <a href="https://github.com/pmashkovtseva/car-review-corpora/blob/main/primary_data_processing.ipynb">primary_data_processing.ipynb</a> находится код токенизации, лемматизации (с помощью <a href="https://github.com/natasha/natasha">Natasha</a>) текста и создания базы данных.
+В файле <a href="https://github.com/pmashkovtseva/car-review-corpora/blob/main/primary_data_processing.ipynb">primary_data_processing.ipynb</a> находится код токенизации, лемматизации (с помощью <a href="https://github.com/natasha/natasha">Natasha</a>) текстов и создания базы данных.
 <br>
 В файле <a href="https://https://github.com/pmashkovtseva/car-review-corpora/blob/main/tachka_database.db">tachka_database.db</a> находится собранная база данных.
 <br>
