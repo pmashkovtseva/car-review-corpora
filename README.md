@@ -12,3 +12,8 @@
 В файле <a href="https://github.com/pmashkovtseva/car-review-corpora/blob/main/searcher.py">searcher.py</a> реализован алгоритм поиска токенов по базе данных.
 <br>
 Файлы <a href="https://github.com/pmashkovtseva/car-review-corpora/blob/main/main.py">main.py</a> и папка <a href="https://github.com/pmashkovtseva/car-review-corpora/tree/main/templates">templates</a> отвечают за реализацию Flask-приложения.
+<br>
+<br>
+<br>
+<b><a href="http://carrevcorp.pythonanywhere.com/">Ссылка на веб-приложение на PythonAnywhere</a></b>
+<b><a href="https://docs.google.com/presentation/d/1_E1tl9awfu_RU8zoYzDEmq5hDupV1FakS-uCRLuQ-w4/edit#slide=id.gf748811d69_0_101">Ссылка на слайды с презентации</a></b>
