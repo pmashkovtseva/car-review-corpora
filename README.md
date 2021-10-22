@@ -20,11 +20,12 @@
 <b><a href="https://docs.google.com/presentation/d/1_E1tl9awfu_RU8zoYzDEmq5hDupV1FakS-uCRLuQ-w4/edit#slide=id.gf748811d69_0_101">Ссылка на слайды с презентации</a></b>
 <br>
 <br>
-<br>
 <h3>Исполнители корпуса</h3>
 <br>
 Татьяна Перевощикова
+<br>
 Полина Черноморченко
+<br>
 Полина Машковцева
 <br>
 ФиКЛ НИУ ВШЭ, БКЛ-192
