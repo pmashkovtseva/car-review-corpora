@@ -1,5 +1,4 @@
 <h3>Car-review corpora</h3>
-<br>
 Здесь хранятся файлы проекта текстового корпуса обзоров на автомобили. Тексты взяты из сообщества <b><a href="https://vk.com/poyasni_za_tachku">"Поясни за тачку"</a></b>.
 <br>
 <br>
@@ -20,7 +19,7 @@
 <b><a href="https://docs.google.com/presentation/d/1_E1tl9awfu_RU8zoYzDEmq5hDupV1FakS-uCRLuQ-w4">Ссылка на слайды с презентации</a></b>
 <br>
 <br>
-<h3>Исполнители корпуса</h3>
+<h3>Исполнители проекта</h3>
 Татьяна Перевощикова
 <br>
 Полина Черноморченко
