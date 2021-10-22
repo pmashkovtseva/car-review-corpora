@@ -17,7 +17,7 @@
 <br>
 <b><a href="http://carrevcorp.pythonanywhere.com/">Ссылка на веб-приложение на PythonAnywhere</a></b>
 <br>
-<b><a href="https://docs.google.com/presentation/d/1_E1tl9awfu_RU8zoYzDEmq5hDupV1FakS-uCRLuQ-w4/edit#slide=id.gf748811d69_0_101">Ссылка на слайды с презентации</a></b>
+<b><a href="https://docs.google.com/presentation/d/1_E1tl9awfu_RU8zoYzDEmq5hDupV1FakS-uCRLuQ-w4">Ссылка на слайды с презентации</a></b>
 <br>
 <br>
 <h3>Исполнители корпуса</h3>
