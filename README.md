@@ -1,7 +1,8 @@
 <h3>Car-review corpora</h3>
 
-Здесь хранятся файлы проекта текстового корпуса обзора на автомобили. Тексты взяты из сообщества <b><a href="https://vk.com/poyasni_za_tachku">"Поясни за тачку"</a></b>
-
+Здесь хранятся файлы проекта текстового корпуса обзора на автомобили. Тексты взяты из сообщества <b><a href="https://vk.com/poyasni_za_tachku">"Поясни за тачку"</a></b>.
+<br>
+<br>
 В файле <a href="https://github.com/pmashkovtseva/car-review-corpora/blob/main/primary_data.csv">primary_data.csv</a> находятся первичные данные, собранные с помощью <a href = "https://popsters.ru/">Popsters</a>.
 <br>
 В файле <a href="https://github.com/pmashkovtseva/car-review-corpora/blob/main/primary_data_processing.ipynb">primary_data_processing.ipynb</a> находится код токенизации, лемматизации (с помощью <a href="https://github.com/natasha/natasha">Natasha</a>) текста и создания базы данных.
