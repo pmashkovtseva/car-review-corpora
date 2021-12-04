@@ -16,7 +16,7 @@
 <br>
 <b><a href="http://carrevcorp.pythonanywhere.com/">Ссылка на веб-приложение на PythonAnywhere</a></b>
 <br>
-<b><a href="https://docs.google.com/presentation/d/1_E1tl9awfu_RU8zoYzDEmq5hDupV1FakS-uCRLuQ-w4">Ссылка на слайды с презентации</a></b>
+<b><a href="https://github.com/pmashkovtseva/car-review-corpora/blob/main/car-review-slides.pdf">Ссылка на слайды с презентации</a></b>
 <br>
 <br>
 <h3>Исполнители проекта</h3>
