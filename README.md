@@ -6,7 +6,7 @@
 <br>
 В файле <a href="https://github.com/pmashkovtseva/car-review-corpora/blob/main/primary_data_processing.ipynb">primary_data_processing.ipynb</a> находится код токенизации, лемматизации (с помощью <a href="https://github.com/natasha/natasha">Natasha</a>), POS-разметки текстов и создания базы данных.
 <br>
-В файле <a href="https://https://github.com/pmashkovtseva/car-review-corpora/blob/main/tachka_database.db">tachka_database.db</a> находится собранная база данных.
+В файле <a href="https://github.com/pmashkovtseva/car-review-corpora/blob/main/tachka_database.db">tachka_database.db</a> находится собранная база данных.
 <br>
 В файле <a href="https://github.com/pmashkovtseva/car-review-corpora/blob/main/searcher.py">searcher.py</a> реализован алгоритм поиска токенов по базе данных.
 <br>
