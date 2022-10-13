@@ -19,7 +19,7 @@
 <b><a href="https://github.com/pmashkovtseva/car-review-corpora/blob/main/car-review-slides.pdf">Ссылка на слайды с презентации</a></b>
 <br>
 <br>
-<h3>Исполнители проекта</h3>
+### Исполнители проекта
 Татьяна Перевощикова
 <br>
 Полина Черноморченко
