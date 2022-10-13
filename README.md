@@ -1,4 +1,4 @@
-<h3>car-review corpora</h3>
+## car-review corpora
 Здесь хранятся файлы проекта текстового корпуса обзоров на автомобили. Тексты взяты из сообщества <b><a href="https://vk.com/poyasni_za_tachku">"Поясни за тачку"</a></b>.
 <br>
 <br>
